@@ -23,6 +23,6 @@ Pod::Spec.new do |s|
   # ...
   # s.dependency "..."
 
-  s.vendored_frameworks = 'ios/libs/StarIO10.xcframework'
+  s.vendored_frameworks = 'ios/libs/StarIO10.framework'
 end
 
